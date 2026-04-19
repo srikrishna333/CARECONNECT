@@ -1,0 +1,9 @@
+{
+  "name": "Care Connect",
+  "description": "Connecting Communities, Empowering Lives – Smart Community Resource Allocation & Service Marketplace",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
